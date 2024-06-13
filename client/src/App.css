@@ -1,0 +1,53 @@
+#homePic{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../src/image/home/homePic7.jpg");
+    height: 900px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; /* Optional: centers the image */
+}
+
+#bgPic{
+    background-image: url("../src/image/Group 34.png");
+    height: 350px;
+}
+
+#CustomerSaysPic{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.856), rgba(0, 0, 0, 0.856)), url("../src/image/home/homePic4.jpg");
+    height: 750px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; /* Optional: centers the image */
+}
+
+
+#AboutHomePic{
+    background-image: url("../src/image/aboutPagePic6.jpg");
+    height: 580px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; /* Optional: centers the image */
+}
+
+
+#MenuhomePic{
+    background-image: url("../src/image/Group68.jpg");
+    height: 580px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; /* Optional: centers the image */
+}
+
+#BlogHomePic{
+    background-image: url("../src/image/Group 66.png");
+    height: 580px;
+}
+
+#Contactpic{
+    background-image: url("../src/image/contact4.jpg");
+    height: 580px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; /* Optional: centers the image */
+}
