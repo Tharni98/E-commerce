@@ -46,45 +46,45 @@ export const products: Record<string, Product[]> = {
     pizza: [
         {
             img: Pic1,
-            title: "Cappuccino pizza",
+            title: "Cheese pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your pizza Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.2500/=",
         },
         {
             img: Pic2,
-            title: "Ice Coffee",
+            title: "pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1500/",
         },
         {
             img: Pic3,
-            title: "Chai Coffee",
+            title: "pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1900/",
         },
 
         {
             img: Pic1,
-            title: "Cappuccino pizza",
+            title: "pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your pizza Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.2500/=",
         },
         {
             img: Pic2,
-            title: "Ice Coffee",
+            title: "pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1500/",
         },
         {
             img: Pic3,
-            title: "Chai Coffee",
+            title: "pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1900/",
         },
     ],
@@ -93,21 +93,21 @@ export const products: Record<string, Product[]> = {
             img: Pic3,
             title: "Mango Juice",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "$2.89",
         },
         {
             img: Pic1,
             title: "Apple Juice",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "$2.89",
         },
         {
             img: Pic2,
             title: "Avacardo Juice",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "$2.89",
         },
     ],
@@ -116,21 +116,21 @@ export const products: Record<string, Product[]> = {
             img: Pic1,
             title: "Cappuccino pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your pizza Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.2500/=",
         },
         {
             img: Pic2,
             title: "Ice Coffee",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1500/",
         },
         {
             img: Pic3,
             title: "Chai Coffee",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1900/",
         },
     ],
@@ -139,21 +139,21 @@ export const products: Record<string, Product[]> = {
             img: Pic1,
             title: "Cappuccino pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your pizza Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.2500/=",
         },
         {
             img: Pic2,
             title: "Ice Coffee",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1500/",
         },
         {
             img: Pic3,
             title: "Chai Coffee",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1900/",
         },
     ],
@@ -162,21 +162,21 @@ export const products: Record<string, Product[]> = {
             img: Pic1,
             title: "Cappuccino pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your pizza Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.2500/=",
         },
         {
             img: Pic2,
             title: "Ice Coffee",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1500/",
         },
         {
             img: Pic3,
             title: "Chai Coffee",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1900/",
         },
     ],
@@ -185,21 +185,21 @@ export const products: Record<string, Product[]> = {
             img: Pic1,
             title: "Cappuccino pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your pizza Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.!",
             price: "Rs.2500/=",
         },
         {
             img: Pic2,
             title: "Ice Coffee",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1500/",
         },
         {
             img: Pic3,
             title: "Chai Coffee",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1900/",
         },
     ],
@@ -208,30 +208,16 @@ export const products: Record<string, Product[]> = {
             img: Pic1,
             title: "Cappuccino pizza",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your pizza Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.2500/=",
         },
         {
             img: Pic2,
             title: "Ice Coffee",
             description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             price: "Rs.1500/",
-        },
-        {
-            img: Pic3,
-            title: "Chai Coffee",
-            description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
-            price: "Rs.1900/",
-        },
-        {
-            img:Pic2,
-            title: "Avacardo Juice",
-            description:
-                "Indulge in warmth and spice with our Chai Coffee at [Your Coffee Shop's Name]. A perfect fusion of rich espresso and aromatic chai, it's a sip of pure delight. Discover your cozy moment in every cup!",
-            price: "$2.89",
-        },
+        }
     ],
 };
 
@@ -366,10 +352,7 @@ const Home = () => {
                         OUR MENU
                     </h1>
                     <p className="text-white items-start mt-6 md:mt-8 max-w-md">
-                        At Taste Coffee, each cup is a tale. From sourcing the finest beans
-                        to crafting your brew, our story is woven into every sip. Join us in
-                        a journey of flavor, warmth, and community. Welcome to a place where
-                        coffee isn't just a drink; it's a story waiting to unfold.
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                     </p>
                     <button className="text-white border-2 border-[#AB8B5A] px-5 py-2 mt-6 md:mt-8 transition hover:bg-[#AB8B5A]">
                         <Link to="/menu">View Menu</Link>
@@ -395,8 +378,7 @@ const Home = () => {
                     <br />
                     <br />
                     <p className="text-white text-center max-w-[700px]">
-                        Far far away, behind the word mountains, far from the countries
-                        Vokalia and Consonantia, there live the blind texts.
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                     </p>
                 </div>
 
@@ -404,7 +386,7 @@ const Home = () => {
                     {testimonials.map((testimonial, index) => (
                         <motion.div
                             key={index}
-                            className="bg-[#AB8A5A] p-8 rounded-lg shadow-lg max-w-md w-full"
+                            className="bg-[#059669] p-8 rounded-lg shadow-lg max-w-md w-full"
                             initial="hidden"
                             whileInView="visible"
                             variants={testimonialVariants}
